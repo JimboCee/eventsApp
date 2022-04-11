@@ -1,2 +1,2 @@
-Week 8 Events App
-- Architects - A. Qudoos, N. Ahmed, J.Cranham
+THIS REPOSITORY IS OUTDATED
+PLEASE REFER TO THIS NEW REPOSITORY https://github.com/JimboCee/EventBookingApp
